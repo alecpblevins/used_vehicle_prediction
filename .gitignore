@@ -2,6 +2,6 @@
 __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
-data/raw/
+vehicle_data/
 data/processed/
 .DS_Store
